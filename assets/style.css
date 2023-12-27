@@ -262,6 +262,9 @@ table>tbody{
     color: var(--grey);
     font-weight: 400;
 }
+.Breadcrumbs>li>a>img{
+    width: 10px;
+}
 .Tabs{
     display: flex;
     flex-direction: row;

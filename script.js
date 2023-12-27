@@ -27,3 +27,5 @@ else if(togg.classList.contains("slider-off")){
 }
 
 })
+
+var pagination=document.querySelector(".pagination")
